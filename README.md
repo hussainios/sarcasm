@@ -11,6 +11,8 @@ A runpod with an A40 GPU
 
 Here is a selection of some of the training data:
 
+![Training Data](Screenshot 2025-08-29 at 19.03.25.png)
+
 **Results**  
 Here are some examples of answers created before and after fine-tuning:
 
