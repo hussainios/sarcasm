@@ -35,4 +35,4 @@ I then tried to fine-tune a model to be sarcastic. I was a little surprised when
    
 I was initially trying to work on models around 4-7b parameters but decided to use a smaller model as I was having trouble with VRAM limits. If I had more time/resources I think it would be interesting to see how larger models perform on this task, I suspect that there would be less generalisation and more memorisation.
 
-Here is a graph showing my train loss (Also uploaded as its own file because I don't think its formatted right here): ![Training Loss](./TrainLoss.png)
+Here is a graph showing my train loss: ![Training Loss](./TrainLoss.png)
